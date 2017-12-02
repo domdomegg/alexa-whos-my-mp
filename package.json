@@ -1,0 +1,10 @@
+{
+  "name": "whoIsMyMP",
+  "description": "Finds Alexa user's MP with location permission",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "latest",
+    "http": "latest",
+    "https": "latest"
+  }
+}

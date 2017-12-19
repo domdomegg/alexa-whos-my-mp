@@ -3,7 +3,7 @@
 const Alexa = require('alexa-sdk');
 const https = require('https');
 const http = require('http');
-const APP_ID = 'amzn1.ask.skill.14110169-4b31-46ef-b237-7ad9502e8298';
+const APP_ID = process.env.APP_ID;
 
 const handlers = {
     'LaunchRequest': function() {

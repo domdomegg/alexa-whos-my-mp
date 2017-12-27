@@ -12,4 +12,4 @@ Code is MIT licensed
 
 ## Disclaimer
 
-This is not an official UK parliament app, and does not having official authority of the House.
+This is not an official UK parliament app, and does not have official authority of the House.
